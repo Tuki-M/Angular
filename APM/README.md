@@ -12,4 +12,6 @@ thanks to the tutorial of @Deborah Kurata(https://app.pluralsight.com/library/co
 - Nested Components 
 - Services and Dependency Injection 
 - Retrieving Data Using HTTP
-
+- Navigation and Routing 
+- Angular Modules
+- Building, Testing, and Deploying with the CLI
